@@ -28,7 +28,7 @@
 ///
 #pragma once
 
-#include"NumCpp/Types.hpp"
+#include"Types.hpp"
 
 #include<cmath>
 #include<limits>
