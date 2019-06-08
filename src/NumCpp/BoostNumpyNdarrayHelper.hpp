@@ -28,8 +28,8 @@
 ///
 #pragma once
 
-#include"NumCpp/Types.hpp"
-#include"NumCpp/Utils.hpp"
+#include"Types.hpp"
+#include"Utils.hpp"
 
 #include<algorithm>
 #include<cmath>
